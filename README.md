@@ -1,0 +1,2 @@
+# Unusual-Human-Activity-Detection-[Unusual Human Activity Detection - Open CV Python with Machine Learning.pdf](https://github.com/Ridatab/Unusual-Human-Activity-Detection-/files/13256931/Unusual.Human.Activity.Detection.-.Open.CV.Python.with.Machine.Learning.pdf)
+[Unusual Human Activity Detection - Open CV Python with Machine Learning.pptx](https://github.com/Ridatab/Unusual-Human-Activity-Detection-/files/13256932/Unusual.Human.Activity.Detection.-.Open.CV.Python.with.Machine.Learning.pptx)
